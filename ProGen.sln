@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProGen", "ProGen\ProGen.vcxproj", "{538B30A2-3638-45DC-A1B7-BB893EFFC798}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Debug|x64.ActiveCfg = Debug|x64
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Debug|x64.Build.0 = Debug|x64
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Debug|x86.ActiveCfg = Debug|Win32
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Debug|x86.Build.0 = Debug|Win32
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Release|x64.ActiveCfg = Release|x64
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Release|x64.Build.0 = Release|x64
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Release|x86.ActiveCfg = Release|Win32
+		{538B30A2-3638-45DC-A1B7-BB893EFFC798}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D395B73D-8D21-4CE8-9E00-A6676CFCDC37}
+	EndGlobalSection
+EndGlobal

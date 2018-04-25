@@ -1,0 +1,9 @@
+newmtl stone01.tga
+Ka 1.000 1.000 1.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+d 1.0 
+illum 2 
+map_Ka ../ProGen/data/stone01.tga
+map_Kd ../ProGen/data/stone01.tga
+map_Ks ../ProGen/data/stone01.tga
